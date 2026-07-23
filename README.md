@@ -2,7 +2,7 @@
 
 Este  projeto foi desenvolvido como parte das atividades extensionistas da UNINTER, com o objetivo de promover a conscientização sobre agricultura sustentável e combate à fome.
 
-## 🧩 Tecnologias utilizadas
+## 🧩Tecnologias utilizadas
 - HTML  
 - CSS  
 - JavaScript  
